@@ -7,23 +7,24 @@
                 {
                     "label_choices": [
                         "#bitcoin",
-                        "#bitcoincharts",
-                        "#bitcoiner",
-                        "#bitcoinexchange",
-                        "#bitcoinmining",
-                        "#bitcoinnews",
+                        "#ferarri",
+                        "#mainoo",
+                        "#fridayfeeling",
+                        "#andrewtate",
+                        "#icenetwork",
                         "#bitcoinprice",
                         "#bitcointechnology",
-                        "#bitcointrading",
+                        "#crypto",
                         "#bittensor",
                         "#btc",
                         "#cryptocurrency",
-                        "#crypto",
+                        "#binance",
                         "#defi",
                         "#decentralizedfinance",
                         "#tao"
                     ],
-                    "max_data_entities": 75
+                     "max_age_hint_minutes": 7440,
+                    "max_data_entities": 100
                 }
             ]
         },
