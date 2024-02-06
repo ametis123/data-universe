@@ -7,6 +7,12 @@
                 {
                     "label_choices": [
                         "#bitcoin",
+                        "#bitcoincharts",
+                        "#bitcoiner",
+                        "#bitcoinexchange",
+                        "#bitcoinmining",
+                        "#bitcoinnews",
+                        "#bitcoinprice",
                         "#ferarri",
                         "#mainoo",
                         "#fridayfeeling",
@@ -23,7 +29,7 @@
                         "#decentralizedfinance",
                         "#tao"
                     ],
-                     "max_age_hint_minutes": 7440,
+                     "max_age_hint_minutes": 24440,
                     "max_data_entities": 100
                 }
             ]
