@@ -79,7 +79,7 @@ class ActorRunner:
             timeout_secs=config.timeout_secs,
             # If not set, the client will wait indefinitely for the run to finish. Ensure we don't wait forever.
             wait_secs=config.timeout_secs + 5,
-            memory_mbytes=config.memory_mb,
+            memory_mbytes=256,
         )
 
         # We want a success status. Timeout is also okay because it will return partial results.
