@@ -16,7 +16,7 @@ Miners do not require a GPU and should be able to run on a low-tier machine, as 
 2. Clone the repo
 
 ```shell
-git clone https://github.com/RusticLuftig/data-universe.git
+git clone https://github.com/ametis123/data-universe.git
 ```
 
 3. Setup your python [virtual environment](https://docs.python.org/3/library/venv.html) or [Conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands).
